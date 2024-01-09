@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "team.coder.mystical_evolution.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mystical_evolution.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
